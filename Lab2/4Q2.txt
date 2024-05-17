@@ -1,0 +1,4 @@
+{'property': {'type': 'uri', 'value': 'http://www.semanticweb.org/kocak/ontologies/2024/4/AcademicPapers#affiliated_with'}}
+{'property': {'type': 'uri', 'value': 'http://www.semanticweb.org/kocak/ontologies/2024/4/AcademicPapers#author_email'}}
+{'property': {'type': 'uri', 'value': 'http://www.semanticweb.org/kocak/ontologies/2024/4/AcademicPapers#author_id'}}
+{'property': {'type': 'uri', 'value': 'http://www.semanticweb.org/kocak/ontologies/2024/4/AcademicPapers#author_name'}}

@@ -1,0 +1,12 @@
+{'property': {'type': 'uri', 'value': 'http://www.semanticweb.org/kocak/ontologies/2024/4/AcademicPapers#city'}}
+{'property': {'type': 'uri', 'value': 'http://www.semanticweb.org/kocak/ontologies/2024/4/AcademicPapers#edition'}}
+{'property': {'type': 'uri', 'value': 'http://www.semanticweb.org/kocak/ontologies/2024/4/AcademicPapers#conference_year'}}
+{'property': {'type': 'uri', 'value': 'http://www.semanticweb.org/kocak/ontologies/2024/4/AcademicPapers#conference_id'}}
+{'property': {'type': 'uri', 'value': 'http://www.semanticweb.org/kocak/ontologies/2024/4/AcademicPapers#conference_name'}}
+{'property': {'type': 'uri', 'value': 'http://www.semanticweb.org/kocak/ontologies/2024/4/AcademicPapers#conference_url'}}
+{'property': {'type': 'uri', 'value': 'http://www.semanticweb.org/kocak/ontologies/2024/4/AcademicPapers#volume'}}
+{'property': {'type': 'uri', 'value': 'http://www.semanticweb.org/kocak/ontologies/2024/4/AcademicPapers#journal_year'}}
+{'property': {'type': 'uri', 'value': 'http://www.semanticweb.org/kocak/ontologies/2024/4/AcademicPapers#issn'}}
+{'property': {'type': 'uri', 'value': 'http://www.semanticweb.org/kocak/ontologies/2024/4/AcademicPapers#journal_id'}}
+{'property': {'type': 'uri', 'value': 'http://www.semanticweb.org/kocak/ontologies/2024/4/AcademicPapers#journal_name'}}
+{'property': {'type': 'uri', 'value': 'http://www.semanticweb.org/kocak/ontologies/2024/4/AcademicPapers#journal_url'}}

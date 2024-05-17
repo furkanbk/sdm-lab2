@@ -1,0 +1,241 @@
+@prefix ns1: <http://www.semanticweb.org/kocak/ontologies/2024/4/AcademicPapers#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:Affiliation_AFRL a ns1:Affiliation ;
+    ns1:address "5107 Hobbs Greens Suite 666, North Staceybury, SD 34521"^^xsd:string ;
+    ns1:affiliation_email "raymond20@example.com"^^xsd:string ;
+    ns1:affiliation_name "['AFRL']"^^xsd:string ;
+    ns1:phone_number "934-658-5717x60530"^^xsd:string ;
+    ns1:type "University"^^xsd:string .
+
+ns1:Affiliation_ANU_Murdoch_University_UNSW_Brunel_University_Flinders_University_UWA_Curtin_University a ns1:Affiliation ;
+    ns1:address "4030 Stone Ville, New Jacqueline, CO 26591"^^xsd:string ;
+    ns1:affiliation_email "brandon13@example.net"^^xsd:string ;
+    ns1:affiliation_name "['ANU, Murdoch University, UNSW, Brunel University, Flinders University, UWA, Curtin University']"^^xsd:string ;
+    ns1:phone_number "289-414-0709x437"^^xsd:string ;
+    ns1:type "University"^^xsd:string .
+
+ns1:Affiliation_California_Institute_of_Technology a ns1:Affiliation ;
+    ns1:address "62555 Steve Path, Simonton, IA 08451"^^xsd:string ;
+    ns1:affiliation_email "lawrence31@example.org"^^xsd:string ;
+    ns1:affiliation_name "California Institute of Technology"^^xsd:string ;
+    ns1:phone_number "(569)366-6173x145"^^xsd:string ;
+    ns1:type "University"^^xsd:string .
+
+ns1:Affiliation_Columbia_University a ns1:Affiliation ;
+    ns1:address "597 Gregory Station, Randystad, CA 92512"^^xsd:string ;
+    ns1:affiliation_email "lisa88@example.org"^^xsd:string ;
+    ns1:affiliation_name "Columbia University"^^xsd:string ;
+    ns1:phone_number "(258)371-2890x372"^^xsd:string ;
+    ns1:type "University"^^xsd:string .
+
+ns1:Affiliation_DeepMind a ns1:Affiliation ;
+    ns1:address "2841 Randy Inlet, Nataliefort, IN 19584"^^xsd:string,
+        "5145 Hannah Spurs, New Russell, TX 46787"^^xsd:string ;
+    ns1:affiliation_email "jeffreyanthony@example.net"^^xsd:string,
+        "ldiaz@example.com"^^xsd:string ;
+    ns1:affiliation_name "DeepMind"^^xsd:string,
+        "['DeepMind']"^^xsd:string ;
+    ns1:phone_number "+1-627-883-4340x62179"^^xsd:string,
+        "001-582-363-5234"^^xsd:string ;
+    ns1:type "Company"^^xsd:string,
+        "University"^^xsd:string .
+
+ns1:Affiliation_FHNW_University_of_Applied_Sciences_and_Arts_Northwestern_Switzerland a ns1:Affiliation ;
+    ns1:address "858 Kenneth Plains Apt. 964, Jimenezburgh, NH 55927"^^xsd:string ;
+    ns1:affiliation_email "pkrause@example.org"^^xsd:string ;
+    ns1:affiliation_name "FHNW University of Applied Sciences and Arts Northwestern Switzerland"^^xsd:string ;
+    ns1:phone_number "+1-517-592-2843x592"^^xsd:string ;
+    ns1:type "University"^^xsd:string .
+
+ns1:Affiliation_Google a ns1:Affiliation ;
+    ns1:address "85604 Charlotte Haven Apt. 525, North Rebeccaberg, TX 11746"^^xsd:string ;
+    ns1:affiliation_email "edwardsjoe@example.com"^^xsd:string ;
+    ns1:affiliation_name "['Google']"^^xsd:string ;
+    ns1:phone_number "001-829-839-0166x262"^^xsd:string ;
+    ns1:type "Company"^^xsd:string .
+
+ns1:Affiliation_Harvard_University a ns1:Affiliation ;
+    ns1:address "6952 Dean Court, Port John, VA 82984"^^xsd:string,
+        "7650 Richard Glen, Parkertown, AS 84037"^^xsd:string ;
+    ns1:affiliation_email "brownteresa@example.net"^^xsd:string,
+        "scott43@example.com"^^xsd:string ;
+    ns1:affiliation_name "Harvard University"^^xsd:string,
+        "['Harvard University']"^^xsd:string ;
+    ns1:phone_number "(933)779-7196x192"^^xsd:string,
+        "319.613.3352"^^xsd:string ;
+    ns1:type "Company"^^xsd:string .
+
+ns1:Affiliation_Hong_Kong_University_of_Science_and_Technology a ns1:Affiliation ;
+    ns1:address "77531 Berger Creek, Crosschester, PR 94971"^^xsd:string ;
+    ns1:affiliation_email "tylerharvey@example.net"^^xsd:string ;
+    ns1:affiliation_name "['Hong Kong University of Science and Technology']"^^xsd:string ;
+    ns1:phone_number "510.837.1814"^^xsd:string ;
+    ns1:type "University"^^xsd:string .
+
+ns1:Affiliation_INRIA a ns1:Affiliation ;
+    ns1:address "5056 Jeremy Plaza, Johnsonfort, NV 30153"^^xsd:string ;
+    ns1:affiliation_email "lozanocarolyn@example.com"^^xsd:string ;
+    ns1:affiliation_name "['INRIA']"^^xsd:string ;
+    ns1:phone_number "391-200-3341x343"^^xsd:string ;
+    ns1:type "Company"^^xsd:string .
+
+ns1:Affiliation_Kansas_State_University a ns1:Affiliation ;
+    ns1:address "123 Rodriguez Crossing Apt. 831, Mayoburgh, NH 89315"^^xsd:string ;
+    ns1:affiliation_email "jennifer93@example.net"^^xsd:string ;
+    ns1:affiliation_name "['Kansas State University']"^^xsd:string ;
+    ns1:phone_number "3525807468"^^xsd:string ;
+    ns1:type "University"^^xsd:string .
+
+ns1:Affiliation_Massachusetts_Institute_of_Technology a ns1:Affiliation ;
+    ns1:address "2600 Yu Forges Apt. 619, Jenniferside, MH 16518"^^xsd:string ;
+    ns1:affiliation_email "tallen@example.net"^^xsd:string ;
+    ns1:affiliation_name "Massachusetts Institute of Technology"^^xsd:string ;
+    ns1:phone_number "(672)880-8139"^^xsd:string ;
+    ns1:type "University"^^xsd:string .
+
+ns1:Affiliation_Princeton_University a ns1:Affiliation ;
+    ns1:address "6902 Dawson Crest Suite 782, South Emilyview, VA 46624"^^xsd:string ;
+    ns1:affiliation_email "floresdavid@example.com"^^xsd:string ;
+    ns1:affiliation_name "Princeton University"^^xsd:string ;
+    ns1:phone_number "(707)309-3173x103"^^xsd:string ;
+    ns1:type "University"^^xsd:string .
+
+ns1:Affiliation_Singapore_Management_University a ns1:Affiliation ;
+    ns1:address "65481 Mitchell Vista, Wrightborough, PA 58336"^^xsd:string ;
+    ns1:affiliation_email "olsonjames@example.org"^^xsd:string ;
+    ns1:affiliation_name "['Singapore Management University']"^^xsd:string ;
+    ns1:phone_number "+1-581-892-8794x471"^^xsd:string ;
+    ns1:type "Company"^^xsd:string .
+
+ns1:Affiliation_St_Petersburg_Federal_Research_Center_of_the_Russian_Academy_of_Sciences a ns1:Affiliation ;
+    ns1:address "Unit 1175 Box 2098, DPO AE 55718"^^xsd:string ;
+    ns1:affiliation_email "zgonzalez@example.com"^^xsd:string ;
+    ns1:affiliation_name "['St. Petersburg Federal Research Center of the Russian Academy of Sciences']"^^xsd:string ;
+    ns1:phone_number "(935)421-8994x61682"^^xsd:string ;
+    ns1:type "Company"^^xsd:string .
+
+ns1:Affiliation_Stanford_University a ns1:Affiliation ;
+    ns1:address "0880 Ramos Shoal Apt. 271, Jeremyfort, PW 29980"^^xsd:string ;
+    ns1:affiliation_email "michaelroberts@example.net"^^xsd:string ;
+    ns1:affiliation_name "Stanford University"^^xsd:string ;
+    ns1:phone_number "+1-666-321-2813"^^xsd:string ;
+    ns1:type "University"^^xsd:string .
+
+ns1:Affiliation_Sydney_University a ns1:Affiliation ;
+    ns1:address "29518 Carlson Circles Suite 534, Port James, NY 36463"^^xsd:string ;
+    ns1:affiliation_email "ejones@example.com"^^xsd:string ;
+    ns1:affiliation_name "['Sydney University']"^^xsd:string ;
+    ns1:phone_number "959-332-2441"^^xsd:string ;
+    ns1:type "University"^^xsd:string .
+
+ns1:Affiliation_Technische_Universitt_Dresden a ns1:Affiliation ;
+    ns1:address "60185 Chavez Street, Rebeccamouth, MN 44842"^^xsd:string ;
+    ns1:affiliation_email "amccullough@example.net"^^xsd:string ;
+    ns1:affiliation_name "['Technische Universität Dresden']"^^xsd:string ;
+    ns1:phone_number "480.830.4754x548"^^xsd:string ;
+    ns1:type "University"^^xsd:string .
+
+ns1:Affiliation_Universitat_de_Barcelona a ns1:Affiliation ;
+    ns1:address "58999 Knox Street, Randyton, PW 63424"^^xsd:string ;
+    ns1:affiliation_email "hillsally@example.net"^^xsd:string ;
+    ns1:affiliation_name "Universitat de Barcelona"^^xsd:string ;
+    ns1:phone_number "725-685-6659"^^xsd:string ;
+    ns1:type "University"^^xsd:string .
+
+ns1:Affiliation_University_of_California_Berkeley a ns1:Affiliation ;
+    ns1:address "3404 Pamela Terrace Apt. 119, North Suzanneview, ND 84475"^^xsd:string ;
+    ns1:affiliation_email "lyonsarthur@example.org"^^xsd:string ;
+    ns1:affiliation_name "University of California, Berkeley"^^xsd:string ;
+    ns1:phone_number "680-539-0074x611"^^xsd:string ;
+    ns1:type "University"^^xsd:string .
+
+ns1:Affiliation_University_of_California_Los_Angeles a ns1:Affiliation ;
+    ns1:address "72588 Gonzales Orchard Apt. 776, Jacobtown, FL 90488"^^xsd:string ;
+    ns1:affiliation_email "jasonoconnor@example.net"^^xsd:string ;
+    ns1:affiliation_name "University of California, Los Angeles"^^xsd:string ;
+    ns1:phone_number "722-834-0334x641"^^xsd:string ;
+    ns1:type "Company"^^xsd:string .
+
+ns1:Affiliation_University_of_California_San_Diego a ns1:Affiliation ;
+    ns1:address "8731 Bean River, Port Toni, AZ 96428"^^xsd:string ;
+    ns1:affiliation_email "jeff58@example.org"^^xsd:string ;
+    ns1:affiliation_name "University of California, San Diego"^^xsd:string ;
+    ns1:phone_number "963-314-7948x1455"^^xsd:string ;
+    ns1:type "University"^^xsd:string .
+
+ns1:Affiliation_University_of_Cambridge a ns1:Affiliation ;
+    ns1:address "619 Hunter Pass Apt. 751, West Scott, AL 77139"^^xsd:string ;
+    ns1:affiliation_email "allencheryl@example.com"^^xsd:string ;
+    ns1:affiliation_name "University of Cambridge"^^xsd:string ;
+    ns1:phone_number "770-947-6002"^^xsd:string ;
+    ns1:type "University"^^xsd:string .
+
+ns1:Affiliation_University_of_Chicago a ns1:Affiliation ;
+    ns1:address "86715 Steven Terrace Suite 296, Patelside, DC 46615"^^xsd:string ;
+    ns1:affiliation_email "dianawilson@example.org"^^xsd:string ;
+    ns1:affiliation_name "University of Chicago"^^xsd:string ;
+    ns1:phone_number "(361)969-1945x3136"^^xsd:string ;
+    ns1:type "Company"^^xsd:string .
+
+ns1:Affiliation_University_of_Dsseldorf a ns1:Affiliation ;
+    ns1:address "6022 Flowers Mountain, Jamesland, MS 00931"^^xsd:string ;
+    ns1:affiliation_email "derekkane@example.com"^^xsd:string ;
+    ns1:affiliation_name "['University of Düsseldorf']"^^xsd:string ;
+    ns1:phone_number "001-513-907-0951"^^xsd:string ;
+    ns1:type "University"^^xsd:string .
+
+ns1:Affiliation_University_of_Geneva a ns1:Affiliation ;
+    ns1:address "81341 Michael Square Suite 316, South Jesse, WY 89420"^^xsd:string ;
+    ns1:affiliation_email "brooke99@example.net"^^xsd:string ;
+    ns1:affiliation_name "['University of Geneva']"^^xsd:string ;
+    ns1:phone_number "272.741.5463x592"^^xsd:string ;
+    ns1:type "Company"^^xsd:string .
+
+ns1:Affiliation_University_of_Michigan a ns1:Affiliation ;
+    ns1:address "1468 Brandon Light Suite 872, West Brianport, GU 56401"^^xsd:string ;
+    ns1:affiliation_email "murrayjoseph@example.net"^^xsd:string ;
+    ns1:affiliation_name "University of Michigan"^^xsd:string ;
+    ns1:phone_number "994.311.5671x8867"^^xsd:string ;
+    ns1:type "University"^^xsd:string .
+
+ns1:Affiliation_University_of_Oxford a ns1:Affiliation ;
+    ns1:address "33393 Rachel Street Apt. 926, South Vincentmouth, CO 64782"^^xsd:string ;
+    ns1:affiliation_email "taylormichael@example.org"^^xsd:string ;
+    ns1:affiliation_name "University of Oxford"^^xsd:string ;
+    ns1:phone_number "968-809-1249x3150"^^xsd:string ;
+    ns1:type "University"^^xsd:string .
+
+ns1:Affiliation_University_of_Pennsylvania a ns1:Affiliation ;
+    ns1:address "6888 Bryan Branch Apt. 558, Jonesland, FL 59496"^^xsd:string ;
+    ns1:affiliation_email "gbarrett@example.com"^^xsd:string ;
+    ns1:affiliation_name "University of Pennsylvania"^^xsd:string ;
+    ns1:phone_number "492.924.2580x61145"^^xsd:string ;
+    ns1:type "University"^^xsd:string .
+
+ns1:Affiliation_University_of_Washington a ns1:Affiliation ;
+    ns1:address "48613 Debbie Corner, Jillville, SD 80885"^^xsd:string,
+        "6215 Stanley Street, Lake Megan, NE 77181"^^xsd:string ;
+    ns1:affiliation_email "daniellerobles@example.org"^^xsd:string,
+        "mindylevy@example.com"^^xsd:string ;
+    ns1:affiliation_name "University of Washington"^^xsd:string,
+        "['University of Washington']"^^xsd:string ;
+    ns1:phone_number "(488)805-2846"^^xsd:string,
+        "717.679.0453"^^xsd:string ;
+    ns1:type "Company"^^xsd:string,
+        "University"^^xsd:string .
+
+ns1:Affiliation_Yale_University a ns1:Affiliation ;
+    ns1:address "1043 John Bypass Apt. 600, Jessicaview, GA 79501"^^xsd:string ;
+    ns1:affiliation_email "milesmarisa@example.com"^^xsd:string ;
+    ns1:affiliation_name "Yale University"^^xsd:string ;
+    ns1:phone_number "001-709-699-5962"^^xsd:string ;
+    ns1:type "University"^^xsd:string .
+
+ns1:Affiliation_dataworld a ns1:Affiliation ;
+    ns1:address "020 Holden Drive, Johnsonview, PW 45080"^^xsd:string ;
+    ns1:affiliation_email "perrymisty@example.org"^^xsd:string ;
+    ns1:affiliation_name "['data.world']"^^xsd:string ;
+    ns1:phone_number "+1-260-475-8635x211"^^xsd:string ;
+    ns1:type "University"^^xsd:string .
+

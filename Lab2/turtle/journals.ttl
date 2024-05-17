@@ -1,0 +1,203 @@
+@prefix ex: <http://www.semanticweb.org/kocak/ontologies/2024/4/AcademicPapers#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+ex:Venue_0a4091e0-278a-4c42-9b5d-09b61940ac44 a ex:Journal ;
+    ex:issn "1907-5111" ;
+    ex:name "Jurnal sport science" ;
+    foaf:homepage <http://journal2.um.ac.id/index.php/sport-science/> .
+
+ex:Venue_0aed7a40-85f3-4c66-9e1b-c1556c57001b a ex:Journal ;
+    ex:issn "1932-6203" ;
+    ex:name "PLoS ONE" ;
+    foaf:homepage <https://journals.plos.org/plosone/> .
+
+ex:Venue_0c711e3b-de49-4786-9dd8-3edd2c943869 a ex:Journal ;
+    ex:issn "1047-3203" ;
+    ex:name "Journal of Visual Communication and Image Representation" ;
+    foaf:homepage <http://www.elsevier.com/wps/find/journaldescription.cws_home/622906/description#description> .
+
+ex:Venue_1283a59c-0d1f-48c3-81d7-02172f597e70 a ex:Journal ;
+    ex:issn "0018-9286" ;
+    ex:name "IEEE Transactions on Automatic Control" ;
+    foaf:homepage <http://ieeexplore.ieee.org/servlet/opac?punumber=9> .
+
+ex:Venue_136edf8d-0f88-4c2c-830f-461c6a9b842e a ex:Journal ;
+    ex:issn "2076-3417" ;
+    ex:name "Applied Sciences" ;
+    foaf:homepage <http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-217814> .
+
+ex:Venue_21e23f5f-d076-48a8-a3aa-eac8f4eda0d9 a ex:Journal ;
+    ex:issn "0006-3223" ;
+    ex:name "Biological Psychiatry" ;
+    foaf:homepage <http://www.elsevier.com/locate/biopsychiat> .
+
+ex:Venue_25248f80-fe99-48e5-9b8e-9baef3b8e23b a ex:Journal ;
+    ex:issn "0162-8828" ;
+    ex:name "IEEE Transactions on Pattern Analysis and Machine Intelligence" ;
+    foaf:homepage <http://www.computer.org/tpami/> .
+
+ex:Venue_2633f5b2-c15c-49fe-80f5-07523e770c26 a ex:Journal ;
+    ex:issn "2169-3536" ;
+    ex:name "IEEE Access" ;
+    foaf:homepage <http://www.ieee.org/publications_standards/publications/ieee_access.html> .
+
+ex:Venue_2c469df0-fa01-4dee-8f25-0d87a6fc4ef1 a ex:Journal ;
+    ex:issn "1615-9853" ;
+    ex:name "Proteomics" ;
+    foaf:homepage <http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1615-9861> .
+
+ex:Venue_39b8b5dc-1ca2-4d60-9973-fb023d4d6c4c a ex:Journal ;
+    ex:issn "0364-765X" ;
+    ex:name "Mathematics of Operations Research" ;
+    foaf:homepage <http://www.informs.org/Pubs/MOR> .
+
+ex:Venue_3a0340a2-0804-47d7-9734-55aad610ead1 a ex:Journal ;
+    ex:issn "1542-9423" ;
+    ex:name "Journal of Aerospace Computing Information and Communication" ;
+    foaf:homepage <http://rzblx1.uni-regensburg.de/ezeit/warpto.phtml?colors=7&jour_id=84231> .
+
+ex:Venue_3a995ee9-e30d-4697-8cb1-d2b8baa4c814 a ex:Journal ;
+    ex:issn "1687-9740" ;
+    ex:name "International Journal of Pediatrics" ;
+    foaf:homepage <http://www.hindawi.com/journals/ijped/> .
+
+ex:Venue_3f16aef5-6b9f-4f87-baca-cbf8147e352f a ex:Journal ;
+    ex:issn "1549-9596" ;
+    ex:name "Journal of Chemical Information and Modeling" ;
+    foaf:homepage <http://pubs.acs.org/jcim> .
+
+ex:Venue_42cd70f7-45f1-4f5a-9723-42d222d6c56e a ex:Journal ;
+    ex:issn "0018-9340" ;
+    ex:name "IEEE transactions on computers" ;
+    foaf:homepage <http://ieeexplore.ieee.org/servlet/opac?punumber=12> .
+
+ex:Venue_464fc754-14dd-47ef-836a-b2bacc415d8f a ex:Journal ;
+    ex:issn "1464-1801" ;
+    ex:name "Journal of Molecular Microbiology and Biotechnology" ;
+    foaf:homepage <https://www.karger.com/Journal/Home/228391> .
+
+ex:Venue_4a3ac048-1d69-4baf-95ee-287858c5913a a ex:Journal ;
+    ex:issn "1939-3547" ;
+    ex:name "Information Security Journal" ;
+    foaf:homepage <http://www.informaworld.com/smpp/title~content=1065-898X> .
+
+ex:Venue_5b118ecf-59a2-431d-8c47-4656f9e92e08 a ex:Journal ;
+    ex:issn "1868-1743" ;
+    ex:name "Molecular Informatics" ;
+    foaf:homepage <http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1868-1751> .
+
+ex:Venue_68f20e73-515e-4c73-9cd5-5684926b45f7 a ex:Journal ;
+    ex:issn "0733-8716" ;
+    ex:name "IEEE Journal on Selected Areas in Communications" ;
+    foaf:homepage <http://www.comsoc.org/jsac/> .
+
+ex:Venue_69eb0845-348f-4911-86c6-dd7adcfe1508 a ex:Journal ;
+    ex:issn "1063-8016" ;
+    ex:name "Journal of Database Management" ;
+    foaf:homepage <https://www.igi-global.com/journal/journal-database-management-jdm/1072> .
+
+ex:Venue_79c59592-820f-4ed1-87df-db795b4326be a ex:Journal ;
+    ex:issn "0148-5598" ;
+    ex:name "Journal of medical systems" ;
+    foaf:homepage <https://link.springer.com/journal/10916> .
+
+ex:Venue_7a374625-d401-46df-bfd4-9637275974e1 a ex:Journal ;
+    ex:issn "2227-7072" ;
+    ex:name "International Journal of Financial Studies" ;
+    foaf:homepage <http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-281817> .
+
+ex:Venue_80d65c2a-75d2-4eeb-9aff-622dfa7888b0 a ex:Journal ;
+    ex:issn "1229-8476" ;
+    ex:name "The Journal of Information Systems" ;
+    foaf:homepage <http://www.atypon-link.com/AAA/toc/jis/21/1> .
+
+ex:Venue_879cc181-c4d7-4a05-bc03-3766f2c37b6d a ex:Journal ;
+    ex:issn "1550-0594" ;
+    ex:name "Clinical EEG and Neuroscience" ;
+    foaf:homepage <http://www.ecnsweb.com/ce_clinicaleeg.htm> .
+
+ex:Venue_88628377-4e89-44f8-bb38-094e29986c8f a ex:Journal ;
+    ex:issn "1877-0509" ;
+    ex:name "Procedia Computer Science" ;
+    foaf:homepage <http://www.elsevier.com/wps/find/journaldescription.cws_home/719435/description#> .
+
+ex:Venue_97033a25-f03c-4ad0-aef7-a1ff724d264d a ex:Journal ;
+    ex:issn "1353-3452" ;
+    ex:name "Science and Engineering Ethics" ;
+    foaf:homepage <https://link.springer.com/journal/11948> .
+
+ex:Venue_9704c32e-4051-4155-95f8-dcb3c01abc51 a ex:Journal ;
+    ex:issn "1049-4820" ;
+    ex:name "Interactive Learning Environments" ;
+    foaf:homepage <http://www.informaworld.com/1744-5191> .
+
+ex:Venue_b142707c-e6b5-427a-a6d4-313604e96add a ex:Journal ;
+    ex:issn "0009-9147" ;
+    ex:name "Clinical Chemistry" ;
+    foaf:homepage <http://www.clinchem.org/> .
+
+ex:Venue_bb1e43d8-72e5-4f3a-a4dc-a5e2e6d038cc a ex:Journal ;
+    ex:issn "2152-2715" ;
+    ex:name "Cyberpsychology, Behavior, and Social Networking" ;
+    foaf:homepage <https://www.liebertpub.com/cpb> .
+
+ex:Venue_c1787df9-2372-4198-b5d7-602b4b17feea a ex:Journal ;
+    ex:issn "1604-7982" ;
+    ex:name "Game Studies" ;
+    foaf:homepage <http://www.gamestudies.org/> .
+
+ex:Venue_c3e5f1c8-9ba7-47e5-acde-53063a69d483 a ex:Journal ;
+    ex:issn "1999-5903" ;
+    ex:name "Future Internet" ;
+    foaf:homepage <http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-156830> .
+
+ex:Venue_ccd8e532-73c6-414f-bc91-271bbb2933e2 a ex:Journal ;
+    ex:issn "1450-5843" ;
+    ex:name "Electronics" ;
+    foaf:homepage <http://www.electronics.etfbl.net/> .
+
+ex:Venue_d029f971-f74c-41ca-8373-1b713414c797 a ex:Journal ;
+    ex:issn "1530-9827" ;
+    ex:name "Journal of Computing and Information Science in Engineering" ;
+    foaf:homepage <https://www.asme.org/> .
+
+ex:Venue_d406a3f4-dc05-43be-b1f6-812f29de9c0e a ex:Journal ;
+    ex:issn "1556-6013" ;
+    ex:name "IEEE Transactions on Information Forensics and Security" ;
+    foaf:homepage <http://www.ieee.org/organizations/society/sp/tifs.html> .
+
+ex:Venue_d64970b5-c111-42a8-aef4-66705a3b73dd a ex:Journal ;
+    ex:issn "0363-0129" ;
+    ex:name "SIAM Journal of Control and Optimization" ;
+    foaf:homepage <https://epubs.siam.org/journal/sjcodc> .
+
+ex:Venue_da96c220-cd39-4894-bae6-d2d77c8e7aa9 a ex:Journal ;
+    ex:issn "0305-1048" ;
+    ex:name "Nucleic Acids Research" ;
+    foaf:homepage <https://academic.oup.com/nar> .
+
+ex:Venue_e2ffc10b-8941-4382-801c-48e781e51620 a ex:Journal ;
+    ex:issn "1550-1337" ;
+    ex:name "International Journal of Information and Communication Technology Education" ;
+    foaf:homepage <http://find.galegroup.com/openurl/openurl?ctx_enc=info:ofi:enc:UTF-8&res_id=info:sid/gale:AONE&rft.issn=1550-1876&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&url_ver=Z39.88-2004> .
+
+ex:Venue_e427d1dc-4dd1-412a-9fe4-d675dac06ac6 a ex:Journal ;
+    ex:issn "0018-9359" ;
+    ex:name "IEEE Transactions on Education" ;
+    foaf:homepage <https://www.ewh.ieee.org/soc/es/esinfo.html> .
+
+ex:Venue_f7486b96-a794-4d6f-9c59-ceb96c3200a8 a ex:Journal ;
+    ex:issn "1064-7570" ;
+    ex:name "Journal of Network and Systems Management" ;
+    foaf:homepage <https://link.springer.com/journal/10922> .
+
+ex:Venue_fa373f62-4acc-47e8-b0b8-0ca4cd4394e6 a ex:Journal ;
+    ex:issn "" ;
+    ex:name "Ai & Society" ;
+    foaf:homepage <> .
+
+ex:Venue_fcbcaf18-8ab1-43e1-a973-604bbc7e344e a ex:Journal ;
+    ex:issn "2150-8097" ;
+    ex:name "Proceedings of the VLDB Endowment" ;
+    foaf:homepage <http://dl.acm.org/toc.cfm?id=J1174> .
+
